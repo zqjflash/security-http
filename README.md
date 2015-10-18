@@ -21,5 +21,28 @@
   * HTTPS（`所有主流的浏览器和服务器都支持此协议`）
   
   > HTTPS以`https://`，有些浏览器还会显示一些标志性的安全提示，如下图
- 
+  ![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https.png)
+
+  * HTTPS与HTTP对比
+  
+  > HTTPS在HTTP下面提供了一个传输级的密码安全层（SSL[`Secure Sockets Layer`] or TLS[`Transport Layer Security`]），如下图
+  ![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https-protocol.png)
+
+## 2、数字加密
+
+  * 密码（`明文和密文`），如下图
+
+  ![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https-cipher.png)
+  
+  * 密文规则（`循环移位3字符密码实例`）
+
+  ![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https-rot.png)
+
+
+
+
+
+
+
+
   
