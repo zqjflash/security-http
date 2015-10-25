@@ -30,7 +30,6 @@
 
   ![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https-protocol.png)
 
-<<<<<<< HEAD
 ## 2、数字加密
 
 	* 密码（`明文和密文`），如下图
@@ -47,7 +46,7 @@
 	![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https-number-cipher.png)
 
 ## 3、对称密钥加密技术
-=======
+
   * 数字加密
 
     * 密码（`明文和密文`），如下图
@@ -65,7 +64,6 @@
     ![Alt text](https://raw.githubusercontent.com/zqjflash/security-http/master/https-number-cipher.png)
 
 ## 2、对称密钥加密技术
->>>>>>> 4dcde327d9f2933d097cba39edf681cff30dabee
 
   > 发送端和接收端要共享相同的密钥k才能进行通信。发送端用共享的密钥来加密报文，并将得到的密文发送给接收端。接收端收到密文，并对其应用解密函数和相同的共享密钥，恢复出原始的明文
 
